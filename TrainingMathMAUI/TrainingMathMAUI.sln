@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingMathMAUI", "TrainingMathMAUI.csproj", "{18BE6869-6BDE-4648-BA28-FC7E337166DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18BE6869-6BDE-4648-BA28-FC7E337166DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18BE6869-6BDE-4648-BA28-FC7E337166DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18BE6869-6BDE-4648-BA28-FC7E337166DC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{18BE6869-6BDE-4648-BA28-FC7E337166DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18BE6869-6BDE-4648-BA28-FC7E337166DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18BE6869-6BDE-4648-BA28-FC7E337166DC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DE4CB71-4658-443F-BC55-8C8383F874A3}
+	EndGlobalSection
+EndGlobal

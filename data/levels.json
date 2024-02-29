@@ -1,0 +1,57 @@
+{
+    "Beginner":
+    {
+        "Time": 30,
+        "Accounts(Min)": 0,
+        "Accounts(Max)": 20,
+        "Numerical_Group": "N", 
+        "Operations": "+-",
+        "ExpressionsAllowed": false,
+        "Num_Min": 0,
+        "Num_Max": 50
+    },
+    "Intermediate":
+    {
+        "Time": 30,
+        "Accounts(Min)": 21,
+        "Accounts(Max)": 30,
+        "Numerical_Group": "Z+Q",
+        "Operations": "+-/*",
+        "ExpressionsAllowed": false,
+        "Num_Min": -50,
+        "Num_Max": 50
+    },
+    "Professional":
+    {
+        "Time": 30,
+        "Accounts(Min)": 31,
+        "Accounts(Max)": 40,
+        "Numerical_Group": "R",
+        "Operations": "+-/*",
+        "ExpressionsAllowed": true,
+        "Num_Min": -200,
+        "Num_Max": 200
+    },
+    "Modern Pythagoras":
+    {
+        "Time": 10,
+        "Accounts(Min)": 41,
+        "Accounts(Max)": 60,
+        "Numerical_Group": "R+I",
+        "Operations": "+-/*",
+        "ExpressionsAllowed": true,
+        "Num_Min": -1000,
+        "Num_Max": 1000
+    },
+    "Custom":
+    {
+        "Time": 30,
+        "Accounts(Min)": 0,
+        "Accounts(Max)": 0,
+        "Numerical_Group": "R",
+        "Operations": "+-",
+        "ExpressionsAllowed": false,
+        "Num_Min": -100,
+        "Num_Max": 100
+    } 
+}

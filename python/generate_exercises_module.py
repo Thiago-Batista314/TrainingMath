@@ -1,9 +1,11 @@
 import random
 import pandas
+import os
 from exercises_to_json import exercises_to_json
 
 def generate_exercise(difficulty="Beginner"):
-    levels = pandas.read_json('levels.json')
+    data_path = os.getcwd() + "/python/data/"
+    levels = pandas.read_json(f'{data_path}levels.json')
     num1 = 0
     num2 = 0
 

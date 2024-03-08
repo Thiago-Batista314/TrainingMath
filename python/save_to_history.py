@@ -1,8 +1,9 @@
 import json
+import os
 
 def save_to_history():
-    with open('C:/Projects/TrainingMath/data/history.json', 'r+') as file:
-        with open('C:/Projects/TrainingMath/data/exercises.json', 'r+') as exs:
+    with open(os.getcwd() + "/python/data/history.json", 'r+') as file:
+        with open(os.getcwd() + "/python/data/exercises.json", 'r+') as exs:
             exercises = json.load(exs)
 
         new_file = file.readlines()

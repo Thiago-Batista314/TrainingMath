@@ -1,1 +1,0 @@
-C:\Projects\TrainingMath\TrainingMathMAUI\TrainingMathMAUI.csproj;x64

@@ -1,2 +1,2 @@
 # TrainingMath
- An app for train math (mental calculus, exercises, etc...) using python and .NET MAUI.
+ An app to practise math skills using python and Flutter.

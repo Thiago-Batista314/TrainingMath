@@ -1,2 +1,2 @@
 # TrainingMath
- An app to practise math skills using python and Flutter.
+ An app made with python and Flutter to practise math skills.

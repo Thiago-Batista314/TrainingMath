@@ -36,6 +36,3 @@ def get_dpi():
 
     with open(f"{data_path}screen_info.json", "w") as file:
         file.write(json.dumps(info, indent=4))
-    
-
-get_dpi()
